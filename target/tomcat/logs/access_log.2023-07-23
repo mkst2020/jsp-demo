@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [23/Jul/2023:14:06:15 +0800] "POST /brand-case/brand/selectByPageAndCondition?currentPage=1&pageSize=5 HTTP/1.1" 200 802 http-bio-20000-exec-10 65
+0:0:0:0:0:0:0:1 - - [23/Jul/2023:14:06:15 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-20000-exec-10 0

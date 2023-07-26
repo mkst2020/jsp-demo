@@ -1,0 +1,11 @@
+com\gl\pojo\Brand.class
+com\gl\util\CheckCodeUtil.class
+com\gl\pojo\PageBean.class
+com\gl\web\BrandServlet.class
+com\gl\web\BaseServlet.class
+com\gl\mapper\BrandMapper.class
+com\gl\service\impl\BrandServiceImpl.class
+com\gl\web\old\AddBrandServlet.class
+com\gl\service\BrandService.class
+com\gl\web\old\SelectAllServlet.class
+com\gl\util\SqlSessionFactoryUtils.class
